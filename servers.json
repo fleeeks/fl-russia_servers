@@ -1,14 +1,14 @@
 [
   {
-    "name": "Purpurovsk",
     "ip": "141.95.234.19",
-    "port": 1333,
+    "port": "1333",
+    "online": "0",
+    "maxonline": "500",
     "color": "9933FF",
-    "players": 0,
-    "maxPlayers": 500,
-    "mode": "Roleplay",
-    "language": "RU",
-    "website": "http://141.95.234.19:1333/",
-    "ping": 50
+    "x2": false,
+    "key": "purpurovsk",
+    "name": "Purpurovsk",
+    "firstname": "Purpurovsk",
+    "secondname": "Server"
   }
 ]
